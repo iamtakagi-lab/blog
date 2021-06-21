@@ -1,6 +1,6 @@
 # blog.iamtakagi.net
 
-📝Notion based blog
+📝Blog of blog.iamtakagi.net
 
 [![CI/CD](https://github.com/iamtakagi-net/blog/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/iamtakagi-net/blog/actions/workflows/ci-cd.yml)
 [![license](https://img.shields.io/github/license/iamtakagi-net/iamtakagi.net)](https://github.com/iamtakagi-net/blog/blob/master/LICENSE)
